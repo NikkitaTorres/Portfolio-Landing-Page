@@ -21,7 +21,8 @@ This is only a start to the project that will hopefully be improved over time.
 
 ## Known Bugs:
 
-No known bugs at this time. If you experience any issues or notice anything that could be changed for the better, please reach out to me [here](nikkitatorres@yahoo.com) with a brief description of the issue and when the issues occurs. For example, "I cannot view the images on the webpage when launching in Mozilla Firefox" or "Resizing the webpage breaks the web links".
+Known bugs includes the text that should be centered on the webpage is being pushed off to the left by the sidebar and the header of the sidebar is being displayed to the left of the links. 
+If you experience any other issues or notice anything that could be changed for the better, please reach out to me [here](nikkitatorres@yahoo.com) with a brief description of the issue and when the issues occurs. For example, "I cannot view the images on the webpage when launching in Mozilla Firefox" or "Resizing the webpage breaks the web links".
 
 [GithubPages](https://nikkitatorres.github.io/Portfolio-Landing-Page/)
 

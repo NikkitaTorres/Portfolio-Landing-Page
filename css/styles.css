@@ -15,7 +15,7 @@ h1 {
 }
 
 .box {
-  width: 100%;
+  width: fit-content;
   padding: 10px;
   border: solid black;
   border-width: 4px;
@@ -61,7 +61,7 @@ p {
 }
 
 .box2 {
-  width: 400;
+  width: 400px;
   padding: 10px;
   border: solid black;
   border-width: 4px;
@@ -70,7 +70,10 @@ p {
 }
 
 .box3 {
-  
+  width: fit-content;
+  border: solid rgb(0, 0, 0);
+  border-width: 4px;
+  box-sizing: border-box;
 }
 
 li {
