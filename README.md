@@ -10,12 +10,14 @@ This is only a start to the project that will hopefully be improved over time.
 
 ## Technologies Used:
 
-1. HTML
-2. CSS
+* HTML
+*  CSS
 
 ## Setup Instructions:
 
-Simply click on the link to launch the application. That's it!
+1. Clone [this](https://github.com/NikkitaTorres/Portfolio-Landing-Page.git) repository to your desktop
+2. Navigate to the top level of the directory.
+3. Open index.html in your browser.
 
 ## Known Bugs:
 
