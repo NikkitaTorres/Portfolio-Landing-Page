@@ -36,10 +36,6 @@ p {
   float: left;
 }
 
-div {
-  column-gap: 10%;
-}
-
 .highlight {
   background-color: yellow;
 }
@@ -58,7 +54,7 @@ div {
   flex-direction: column;
   width: 300px;
   align-items: center;
-  background-color: rgb(18, 173, 72);
+  background-color: salmon;
   float: left;
 }
 
@@ -69,4 +65,9 @@ div {
   border-width: 4px;
   box-sizing: border-box;
   margin: 10px;
+}
+
+li {
+  font-size: large;
+  font-family: Arial;
 }
