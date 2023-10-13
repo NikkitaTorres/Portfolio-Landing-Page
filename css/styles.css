@@ -2,7 +2,7 @@ h1 {
   text-align: center;
   font-style: normal;
   color: rgb(183, 183, 60);
-    }
+}
 
 .sidebar {
   display: flex;
@@ -12,7 +12,7 @@ h1 {
   background-color: rgb(29, 96, 85);
   align-items: center;
   justify-content: center;
-            }
+}
 
 .box {
   width: 100%;
@@ -20,14 +20,14 @@ h1 {
   border: solid black;
   border-width: 4px;
   box-sizing: border-box;
-      }
+  }
 
 p {
   text-align: center;
   color: rgb(183, 183, 60);
   font-size: larger;
   font-family: Arial;
-  }
+}
 
 .column1 {
   display: flex;
@@ -36,11 +36,11 @@ p {
   align-items: center;
   background-color: aquamarine;
   float: left;
-          }
+}
 
 .highlight {
   background-color: yellow;
-            }
+}
 
 .column2 {
   display: flex;
@@ -49,7 +49,7 @@ p {
   align-items: center;
   background-color: rgb(18, 173, 72);
   float: left;
-          }
+}
 
 .column3 {
   display: flex;
@@ -58,7 +58,7 @@ p {
   align-items: center;
   background-color: salmon;
   float: left;
-          }
+}
 
 .box2 {
   width: 400;
@@ -67,13 +67,13 @@ p {
   border-width: 4px;
   box-sizing: border-box;
   margin: 10px;
-      }
+}
 
 .box3 {
   
-      }
+}
 
 li {
   font-size: large;
   font-family: Arial;
-    }
+}
