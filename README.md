@@ -23,7 +23,7 @@ This is only a start to the project that will hopefully be improved over time.
 
 No known bugs at this time. If you experience any issues or notice anything that could be changed for the better, please reach out to me [here](nikkitatorres@yahoo.com) with a brief description of the issue and when the issues occurs. For example, "I cannot view the images on the webpage when launching in Mozilla Firefox" or "Resizing the webpage breaks the web links".
 
-[GithubPages](placeholderlink)
+[GithubPages](https://nikkitatorres.github.io/Portfolio-Landing-Page/)
 
 ## License
 
